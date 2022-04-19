@@ -7,3 +7,17 @@
   background-image: url(../../../img/kalegin-michail-179870-unsplash.jpg);
   margin: auto;
 }
+
+@media screen and (max-width: 768px) {
+  .lead__image {
+    width: 768px;
+    height: 480px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__image {
+    width: 320px;
+    height: 200px;
+  }
+}
