@@ -2,3 +2,15 @@
   font-family: "Inter", serif;
   color: #fff;
 }
+
+@media screen and (max-width: 768px) {
+  .intro {
+    width: 720px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro {
+    width: 288px;
+  }
+}
