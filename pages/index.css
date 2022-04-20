@@ -5,9 +5,10 @@
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__title/intro__title.css);
-@import url(../blocks/intro__text/intro__text.css);
-@import url(../blocks/intro__quote/intro__quote.css);
-@import url(../blocks/intro__text-main/intro__text-main.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__quote/intro__quote.css);
+@import url(../blocks/intro/__text-main/intro__text-main.css);
+@import url(../blocks/intro/__paragraph/intro__paragraph.css);
 
 html {
   background-color: #2a2c2f;
