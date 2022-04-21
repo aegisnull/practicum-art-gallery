@@ -1,6 +1,9 @@
 .intro {
   font-family: "Inter", serif;
   color: #fff;
+  padding-top: 92px;
+  width: 1017px;
+  margin: auto;
 }
 
 @media screen and (max-width: 768px) {
