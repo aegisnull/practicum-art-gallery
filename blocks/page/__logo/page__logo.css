@@ -1,5 +1,6 @@
 .page__logo {
   width: 270px;
   height: 70px;
-  text-align: center;
+  margin: auto;
+  display: block;
 }
