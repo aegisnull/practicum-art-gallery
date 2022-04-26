@@ -1,4 +1,5 @@
 .place {
   display: flex;
   padding-top: 91px;
+  justify-content: center;
 }
