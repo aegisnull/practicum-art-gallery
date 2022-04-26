@@ -4,5 +4,13 @@
   margin: auto;
   display: block;
   padding-top: 34px;
-  padding-bottom: 90px;
+  padding-bottom: 91px;
+}
+
+@media screen and (max-width: 320px) {
+  .page__logo {
+    padding-bottom: 51px;
+  }
+}
+  
 }
