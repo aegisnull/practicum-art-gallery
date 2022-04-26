@@ -28,6 +28,10 @@
 @import url(../blocks/places/place/_right/place_right.css);
 @import url(../blocks/places/place/frame6/frame6.css);
 
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+
 html {
   background-color: #2a2c2f;
 }
