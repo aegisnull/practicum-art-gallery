@@ -7,3 +7,7 @@
   align-items: center;
   justify-content: center;
 }
+
+.frame6:hover {
+  background: #0063d2;
+}
