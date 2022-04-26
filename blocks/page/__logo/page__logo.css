@@ -10,6 +10,8 @@
 @media screen and (max-width: 320px) {
   .page__logo {
     padding-bottom: 51px;
+    width: 200px;
+    height: 52px;
   }
 }
   
