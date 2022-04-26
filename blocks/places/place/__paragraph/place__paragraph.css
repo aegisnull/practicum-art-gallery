@@ -1,3 +1,4 @@
 .place__paragraph {
   grid-area: place__paragraph;
+  font-family: "Inter";
 }
