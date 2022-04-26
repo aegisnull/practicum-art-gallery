@@ -1,12 +1,19 @@
 .cover {
   width: 1184px;
   height: 740px;
-  background-image: url(../../images/__background.jpg);
+  margin: auto;
+  color: white;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: auto;
-  color: white;
   gap: 32px;
+  background: rgba(42, 44, 47, 0.4) url("../../images/__background.jpg")
+    no-repeat;
+  background-blend-mode: overlay;
+}
+
+.cover:hover:hover {
+  background: rgba(42, 44, 47, 1) url("../../images/__background.jpg") no-repeat;
+  background-blend-mode: overlay;
 }
