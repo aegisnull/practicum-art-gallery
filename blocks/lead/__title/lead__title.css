@@ -4,7 +4,11 @@
   line-height: 100px;
   text-align: center;
   color: #fff;
-  margin: auto;
-  width: 793px;
-  padding-bottom: 32px;
+}
+
+@media screen and (max-width: 320px) {
+  .lead__title {
+    font-size: 40px;
+    line-height: 44px;
+  }
 }

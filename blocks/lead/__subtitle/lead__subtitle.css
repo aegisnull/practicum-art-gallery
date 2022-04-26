@@ -3,7 +3,20 @@
   font-weight: 600;
   color: #fff;
   text-align: center;
-  margin: auto;
-  width: 720px;
+  padding-top: 32px;
   padding-bottom: 64px;
+}
+
+@media screen and (max-width: 768px) {
+  .lead__subtitle {
+    padding-top: 99px;
+    padding-bottom: 69px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__subtitle {
+    padding-top: 60px;
+    padding-bottom: 40px;
+  }
 }

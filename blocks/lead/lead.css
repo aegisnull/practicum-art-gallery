@@ -1,6 +1,9 @@
 .lead {
   color: #ffffff;
   font-family: "Inter", serif;
-  justify-content: center;
   padding-bottom: 92px;
+  width: 100vw;
+  max-width: 984px;
+  max-height: 983px;
+  margin: auto;
 }
