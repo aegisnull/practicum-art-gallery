@@ -1,3 +1,15 @@
 .place_right {
-  width: 484px;
+  max-width: 484px;
+}
+
+@media screen and (max-width: 768px) {
+  .place_right {
+    max-width: 352px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place_right {
+    max-width: 288px;
+  }
 }

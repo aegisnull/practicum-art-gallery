@@ -1,5 +1,13 @@
 .place {
   display: flex;
+  flex-direction: row;
+  gap: 40px;
   padding-bottom: 80px;
   justify-content: center;
+}
+
+@media screen and (max-width: 320px) {
+  .place {
+    flex-direction: column;
+  }
 }
