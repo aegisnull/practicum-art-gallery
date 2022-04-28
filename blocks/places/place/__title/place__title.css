@@ -5,25 +5,13 @@
   font-size: 72px;
   line-height: 76px;
   color: white;
-  max-width: 584px;
+
   padding-bottom: 48px;
   margin: 0;
 }
 
-.place__title:nth-of-type(3) {
-  width: 584px;
-  color: aqua;
-}
-
-@media screen and (max-width: 768px) {
-  .place__title {
-    max-width: 340px;
-  }
-}
-
 @media screen and (max-width: 320px) {
   .place__title {
-    max-width: 288px;
     font-size: 32px;
     line-height: 35px;
     padding-bottom: 30px;

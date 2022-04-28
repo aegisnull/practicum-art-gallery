@@ -1,0 +1,15 @@
+.place__title_wide {
+  width: 584px;
+}
+
+@media screen and (max-width: 768px) {
+  .place__title_wide {
+    width: 340px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__title_wide {
+    width: 288px;
+  }
+}
