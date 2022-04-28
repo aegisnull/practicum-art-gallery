@@ -1,0 +1,14 @@
+.cover__button {
+  font-family: "Inter";
+  font-weight: 600;
+  color: white;
+  font-size: 18px;
+  line-height: 163%;
+}
+
+@media screen and (max-width: 320px) {
+  .cover__button {
+    font-size: 14px;
+    line-height: 100%;
+  }
+}
