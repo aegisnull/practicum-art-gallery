@@ -3,3 +3,9 @@
   padding-top: 107px;
   margin: 0;
 }
+
+@media screen and (max-width: 768px) {
+  .place__website {
+    padding-top: 0px;
+  }
+}

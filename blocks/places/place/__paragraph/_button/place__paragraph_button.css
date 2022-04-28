@@ -5,3 +5,10 @@
   font-size: 18px;
   line-height: 163%;
 }
+
+@media screen and (max-width: 320px) {
+  .place__paragraph_button {
+    font-size: 14px;
+    line-height: 100%;
+  }
+}

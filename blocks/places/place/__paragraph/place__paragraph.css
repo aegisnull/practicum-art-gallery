@@ -7,3 +7,16 @@
   line-height: 163%;
   padding-bottom: 25px;
 }
+
+@media screen and (max-width: 768px) {
+  .place__paragraph {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__paragraph {
+    margin: 0;
+    padding-bottom: 7px;
+  }
+}
