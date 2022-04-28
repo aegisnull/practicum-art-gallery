@@ -5,4 +5,5 @@
   text-align: right;
   position: relative;
   bottom: 50px;
+  max-width: 720px;
 }
