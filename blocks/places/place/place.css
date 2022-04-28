@@ -12,6 +12,12 @@
 
 @media screen and (max-width: 320px) {
   .place {
-    flex-direction: column;
+    grid-template-columns: 288px;
+    grid-template-areas:
+      "place__title"
+      "place__website"
+      "place__image place__paragraph"
+      "place__paragraph"
+      "frame6";
   }
 }
