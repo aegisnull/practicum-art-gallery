@@ -4,13 +4,14 @@
   font-weight: 400;
   text-align: right;
   position: relative;
-  bottom: 50px;
+  bottom: 25px;
   max-width: 720px;
+  margin: 0;
 }
 
 @media screen and (max-width: 720px) {
   .intro__quote {
     position: relative;
-    bottom: 25px;
+    bottom: 0px;
   }
 }
