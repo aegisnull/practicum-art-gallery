@@ -7,4 +7,12 @@
   width: 280px;
   height: 66px;
   text-align: center;
+  margin: 0;
+}
+
+@media screen and (max-width: 320px) {
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 16px;
+  }
 }

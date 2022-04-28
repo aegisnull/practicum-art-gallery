@@ -13,7 +13,28 @@
   background-blend-mode: overlay;
 }
 
-.cover:hover:hover {
+.cover:hover {
   background: rgba(42, 44, 47, 1) url("../../images/__background.jpg") no-repeat;
   background-blend-mode: overlay;
+}
+
+@media screen and (max-width: 1184px) {
+  .cover {
+    width: 100vw;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    max-height: 746px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+    max-height: 254px;
+    background-position: center;
+    background-size: auto;
+    gap: 16px;
+  }
 }
