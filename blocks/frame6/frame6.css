@@ -1,4 +1,5 @@
 .frame6 {
+  grid-area: frame6;
   background: #0278fe;
   border-radius: 4px;
   width: 355px;
