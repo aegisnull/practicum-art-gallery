@@ -11,6 +11,12 @@
   max-width: 100vw;
 }
 
+@media screen and (max-width: 768px) {
+  .place {
+    grid-template-columns: 355px 352px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .place {
     grid-template-columns: 288px;
