@@ -17,7 +17,7 @@
 @import url(../blocks/places/place/place.css);
 @import url(../blocks/places/place/__image/place__image.css);
 @import url(../blocks/places/place/__paragraph/place__paragraph.css);
-@import url(../blocks/places/place/__paragraph/_container/place__paragraph_container.css);
+@import url(../blocks/places/place/__container/place__container.css);
 @import url(../blocks/places/place/__title/place__title.css);
 @import url(../blocks/places/place/__website/place__website.css);
 @import url(../blocks/places/place/__artist/place__artist.css);
