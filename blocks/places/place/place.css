@@ -20,7 +20,7 @@
 
 @media screen and (max-width: 320px) {
   .place {
-    grid-template-columns: 288px;
+    grid-template-columns: 1fr;
     grid-template-areas:
       "place__title"
       "place__website"
