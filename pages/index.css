@@ -38,3 +38,8 @@
 html {
   background-color: #2a2c2f;
 }
+
+a:link {
+  text-decoration: none;
+  color: white;
+}

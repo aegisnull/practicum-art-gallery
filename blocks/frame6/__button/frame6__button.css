@@ -1,9 +1,14 @@
 .frame6__button {
+  text-decoration: none;
   font-family: "Inter";
   font-weight: 600;
   color: white;
   font-size: 18px;
   line-height: 163%;
+}
+
+.frame6__button:link {
+  text-decoration: none;
 }
 
 @media screen and (max-width: 320px) {
