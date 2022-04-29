@@ -7,3 +7,15 @@
   max-height: 983px;
   margin: auto;
 }
+
+@media screen and (max-width: 768px) {
+  .lead {
+    padding-bottom: 55px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead {
+    padding-bottom: 44px;
+  }
+}
