@@ -1,5 +1,6 @@
 .cover {
-  width: 1184px;
+  max-width: 1184px;
+  width: 100vw;
   height: 740px;
   margin: auto;
   color: white;
@@ -18,12 +19,6 @@
   background: rgba(42, 44, 47, 1) url("../../images/__background.jpg");
   background-size: cover;
   background-blend-mode: overlay;
-}
-
-@media screen and (max-width: 1184px) {
-  .cover {
-    width: 100vw;
-  }
 }
 
 @media screen and (max-width: 768px) {
