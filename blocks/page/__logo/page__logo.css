@@ -1,6 +1,6 @@
 .page__logo {
-  width: 270px;
-  height: 70px;
+  max-width: 270px;
+  max-height: 70px;
   margin: auto;
   display: block;
   padding-top: 34px;
@@ -10,7 +10,7 @@
 @media screen and (max-width: 320px) {
   .page__logo {
     padding-bottom: 51px;
-    width: 200px;
-    height: 52px;
+    max-width: 200px;
+    max-height: 52px;
   }
 }
