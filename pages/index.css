@@ -17,14 +17,15 @@
 @import url(../blocks/places/place/place.css);
 @import url(../blocks/places/place/__image/place__image.css);
 @import url(../blocks/places/place/__paragraph/place__paragraph.css);
-@import url(../blocks/places/place/__paragraph/_button/place__paragraph_button.css);
 @import url(../blocks/places/place/__paragraph/_container/place__paragraph_container.css);
 @import url(../blocks/places/place/__title/place__title.css);
 @import url(../blocks/places/place/__website/place__website.css);
 @import url(../blocks/places/place/__website/_artist/place__website_artist.css);
 @import url(../blocks/places/place/__website/_url-heading/place__website_url-heading.css);
 @import url(../blocks/places/place/__title/_wide/place__title_wide.css);
+
 @import url(../blocks/frame6/frame6.css);
+@import url(../blocks/frame6/__button/frame6__button.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/cover__title.css);
