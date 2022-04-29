@@ -1,6 +1,6 @@
 .place {
   display: grid;
-  grid-template-columns: 460px 484px;
+  grid-template-columns: 1fr 1fr;
   column-gap: 40px;
   grid-template-areas:
     "place__title place__website"
@@ -13,12 +13,11 @@
 
 @media screen and (max-width: 768px) {
   .place {
-    grid-template-columns: 355px 352px;
     column-gap: 28px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 676px) {
   .place {
     grid-template-columns: 1fr;
     grid-template-areas:

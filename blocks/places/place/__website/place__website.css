@@ -4,9 +4,20 @@
   margin: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 987px) {
   .place__website {
     padding-top: 0px;
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .place__website {
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__website {
     max-height: 67px;
   }
 }
