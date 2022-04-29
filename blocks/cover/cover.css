@@ -36,5 +36,6 @@
   .cover {
     max-height: 254px;
     gap: 16px;
+    margin: 0;
   }
 }
