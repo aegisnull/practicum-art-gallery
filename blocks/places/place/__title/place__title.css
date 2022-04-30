@@ -5,15 +5,20 @@
   font-size: 72px;
   line-height: 76px;
   color: white;
-  padding-bottom: 48px;
   margin: 0;
+  align-self: end;
 }
 
 @media screen and (max-width: 987px) {
   .place__title {
     font-size: 42px;
     line-height: 46px;
-    padding-bottom: 46px;
+  }
+}
+
+@media screen and (max-width: 675px) {
+  .place__title {
+    padding-bottom: 30px;
   }
 }
 
@@ -21,6 +26,5 @@
   .place__title {
     font-size: 32px;
     line-height: 35px;
-    padding-bottom: 30px;
   }
 }
