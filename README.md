@@ -1,5 +1,8 @@
 # Project 3: De patria a patria
 
+![213898199-d247b9d6-229d-4a0c-a765-0a1f0d6a4410](https://github.com/aegisnull/practicum-art-gallery/assets/27663011/871f2efe-e37d-4327-b8d3-b91735791d48)
+
+
 ### Descripción general
 
 - Introducción
